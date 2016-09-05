@@ -1,6 +1,6 @@
 ########################################################################################################################################
 
-# Created by: Prof. Valdecy Pereira, D.Sc.
+# Prof. Valdecy Pereira, D.Sc.
 # UFF - Universidade Federal Fluminense (Brazil)
 # email:  valdecypereira@yahoo.com.br
 # Course: Multivariate Data Analysis
