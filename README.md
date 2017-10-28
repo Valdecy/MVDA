@@ -1,4 +1,4 @@
-############################################################################################################
+#############################################################################################
 # Course: Multivariate Data Analysis
 
 * Prof. Valdecy Pereira, D.Sc.
@@ -26,4 +26,4 @@
 * MVDA-07 Multiple Linear Regression: https://www.researchgate.net/publication/287198885_Estatistica_Multivariada_SPSS_-_07_-_Regressao_Linear_Multipla
 * MVDA-08 Logistic Regression: https://www.researchgate.net/publication/287198889_Estatistica_Multivariada_SPSS_-_08_-_Regressao_Logistica_Binaria
 
-########################################################################################################################################
+#############################################################################################
