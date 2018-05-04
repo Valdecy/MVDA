@@ -38,4 +38,6 @@
 
 * MVDA-08 Logistic Regression: https://www.researchgate.net/publication/287198889_Estatistica_Multivariada_SPSS_-_08_-_Regressao_Logistica_Binaria
 
+* MVDA-11 Canonical Correlation: https://www.researchgate.net/publication/324841260_Estatistica_Multivariada_SPSS_-_11_-_Correlacao_Canonica
+
 #############################################################################################
