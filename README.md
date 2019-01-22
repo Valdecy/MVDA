@@ -22,6 +22,8 @@
 
 * MVDA-09 Logistic Regression - Multinomial: https://www.researchgate.net/publication/329093115_Multivariate_Data_Analysis_R_Software_-_09_-_Multinomial_Logistic_Regression
 
+* MVDA-10 Confirmatory Factor Analysis:
+
 * MVDA-11 Canonical Correlation: https://www.researchgate.net/publication/330546219_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis
 
 # Lessons (Slides in Portuguese) - SPSS
@@ -43,6 +45,8 @@
 * MVDA-08 Logistic Regression - Binary: https://www.researchgate.net/publication/287198889_Estatistica_Multivariada_SPSS_-_08_-_Regressao_Logistica_Binaria
 
 * MVDA-09 Logistic Regression - Multinomial: https://www.researchgate.net/publication/329093018_Estatistica_Multivariada_SPSS_-_09_-_Regressao_Logistica_Multinomial
+
+* MVDA-10 Confirmatory Factor Analysis:
 
 * MVDA-11 Canonical Correlation: https://www.researchgate.net/publication/324841260_Estatistica_Multivariada_SPSS_-_11_-_Correlacao_Canonica
 
