@@ -22,6 +22,8 @@
 
 * MVDA-09 Logistic Regression - Multinomial: https://www.researchgate.net/publication/329093115_Multivariate_Data_Analysis_R_Software_-_09_-_Multinomial_Logistic_Regression
 
+* MVDA-11 Canonical Correlation: https://www.researchgate.net/publication/330546219_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis
+
 # Lessons (Slides in Portuguese) - SPSS
 
 * MVDA-01 Introduction: https://www.researchgate.net/publication/281465399_Estatistica_Multivariada_SPSS_-_01_-_Introducao
