@@ -24,7 +24,7 @@
 
 * MVDA-10 Confirmatory Factor Analysis:
 
-* MVDA-11 Canonical Correlation: https://www.researchgate.net/publication/330546219_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis
+* MVDA-11 Canonical Correlation: https://www.researchgate.net/publication/330563632_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis
 
 # Lessons (Slides in Portuguese) - SPSS
 
