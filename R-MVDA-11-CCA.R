@@ -35,7 +35,7 @@ S_yx <- cov(my_data_y, my_data_x)
 
 #############################################################################################################
 
-# Lambda
+# Lambda - Correlation
 R_A <- solve(R_xx) %*% R_xy %*% solve(R_yy) %*% R_yx
 eigen(R_A)$values # eigenvalues of each canonical pair
 A   <- eigen(R_A)$vectors # constant ak of the canonical variables
