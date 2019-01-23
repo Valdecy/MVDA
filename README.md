@@ -20,7 +20,7 @@
 
 * MVDA-08 Logistic Regression - Binary: https://www.researchgate.net/publication/311165290_Multivariate_Data_Analysis_R_Software_-_08_-_Binary_Logistic_Regression_Logit
 
-* MVDA-09 Logistic Regression - Multinomial: https://www.researchgate.net/publication/329093115_Multivariate_Data_Analysis_R_Software_-_09_-_Multinomial_Logistic_Regression
+* MVDA-09 Logistic Regression - Multinomial: https://www.researchgate.net/publication/330564691_Multivariate_Data_Analysis_R_Software_-_09_-_Multinomial_Logistic_Regression
 
 * MVDA-10 Confirmatory Factor Analysis:
 
