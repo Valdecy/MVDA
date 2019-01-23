@@ -33,8 +33,7 @@ S_xx <- cov(my_data_x)
 S_xy <- cov(my_data_x, my_data_y)
 S_yx <- cov(my_data_y, my_data_x)
 
-R_xy %*% solve(R_yy) %*% R_yx
-R_yx %*% solve(R_xx) %*% R_xy
+#############################################################################################################
 
 # Lambda
 R_A <- solve(R_xx) %*% R_xy %*% solve(R_yy) %*% R_yx
@@ -69,6 +68,8 @@ CC <- diag(eigen(R_A)$values^(1/2))
 
 CC <- diag(eigen(R_B)$values^(1/2))
 
+#############################################################################################################
+
 # Standardized Variance
 variance_A <- (t(A) %*% R_xx %*% A)
 variance_A_x <- variance_A[1,1]
@@ -100,6 +101,8 @@ A_r_y_st <- A_r_y/(variance_r_A_y)^(1/2)
 
 B_r_x_st <- B_r_x/(variance_r_B_x)^(1/2)
 B_r_y_st <- B_r_y/(variance_r_B_y)^(1/2)
+
+#############################################################################################################
 
 # Diagnosis – Pillai Barlett Trace
 p <- ncol(my_data_x)
@@ -171,6 +174,8 @@ qf(0.975, df1 = v1_RAO, df2 = v2_RAO)
 # Diagnosis - Roy's Largest Root Test
 EV <- eigen(R_A)$values/(1 - eigen(R_A)$values)
 ROY <- max(EV)
+
+#############################################################################################################
 
 # Structural correlation measures 
 my_data_x_st <- scale(my_data_x)
