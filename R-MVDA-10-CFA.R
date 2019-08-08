@@ -6,7 +6,7 @@
 # Course: Multivariate Data Analysis
 # Lesson: Exploratory Factor Analysis
 # Citation: 
-# PEREIRA, V. (2016). Project: Multivariate Data Analysis, File: R-MVDA-03-EFA.R, GitHub repository: <https://github.com/Valdecy/Multivariate_Data_Analysis>
+# PEREIRA, V. (2019). Project: Multivariate Data Analysis, File: R-MVDA-10-CFA.R, GitHub repository: <https://github.com/Valdecy/MVDA>
 
 #############################################################################################################
 
