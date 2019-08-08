@@ -22,7 +22,7 @@
 
 * MVDA-09 Logistic Regression - Multinomial: https://www.researchgate.net/publication/330564691_Multivariate_Data_Analysis_R_Software_-_09_-_Multinomial_Logistic_Regression
 
-* MVDA-10 Confirmatory Factor Analysis:
+* MVDA-10 Confirmatory Factor Analysis: https://www.researchgate.net/publication/335027894_Multivariate_Data_Analysis_R_Software_-_10_-Confirmatory_Factor_Analysis
 
 * MVDA-11 Canonical Correlation: https://www.researchgate.net/publication/330563632_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis
 
@@ -46,7 +46,7 @@
 
 * MVDA-09 Logistic Regression - Multinomial: https://www.researchgate.net/publication/329093018_Estatistica_Multivariada_SPSS_-_09_-_Regressao_Logistica_Multinomial
 
-* MVDA-10 Confirmatory Factor Analysis:
+* MVDA-10 Confirmatory Factor Analysis: https://www.researchgate.net/publication/335027893_Estatistica_Multivariada_SPSS_-_10_-_Analise_Fatorial_Confirmatoria
 
 * MVDA-11 Canonical Correlation: https://www.researchgate.net/publication/324841260_Estatistica_Multivariada_SPSS_-_11_-_Correlacao_Canonica
 
